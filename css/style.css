@@ -1,0 +1,30 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.honda-text{
+    color: #E76F51;
+}
+
+.honda-btn{
+    background-color: #E76F51;
+}
+
+.honda-btn-outline{
+    border: 1px solid #E76F51;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color:#E76F51;
+}
+
+.grayscale {
+    filter: grayscale(100%);
+  }
+
+.client-name{
+    color: #23A6F0;
+}
+
+.icon-color{
+    color: #E77C40;
+}
